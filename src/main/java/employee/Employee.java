@@ -1,19 +1,19 @@
-/**
+package employee; /**
  * Created by Myroslava_Zubach on 27.01.2017.
  */
 import java.io.*;
 public class Employee {
-    String name;
-    int age;
-    String designation;
-    double salary;
+    public String name;
+    public int age;
+    public String designation;
+    public double salary;
 
-    // This is the constructor of the class Employee
+    // This is the constructor of the class employee.Employee
     public Employee(String name) {
         this.name = name;
     }
 
-    // Assign the age of the Employee  to the variable age.
+    // Assign the age of the employee.Employee  to the variable age.
     public void setEmpAge(int empAge) {
         age = empAge;
     }
@@ -32,7 +32,7 @@ public class Employee {
         salary = empSalary;
     }
 
-    /* Print the Employee details */
+    /* Print the employee.Employee details */
     public void printEmployee() {
         System.out.println("Name:"+ name );
         System.out.println("Age:" + age );
