@@ -14,8 +14,12 @@ public class Employee {
     }
 
     // Assign the age of the Employee  to the variable age.
-    public void empAge(int empAge) {
+    public void setEmpAge(int empAge) {
         age = empAge;
+    }
+
+    public int getEmpAge() {
+        return age;
     }
 
     /* Assign the designation to the variable designation.*/
