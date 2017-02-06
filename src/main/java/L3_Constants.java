@@ -1,7 +1,7 @@
 /**
  * Created by azmiks on 06/02/2017.
  */
-public class Constants {
+public class L3_Constants {
     public static void main (String[] args)
     {
         final int Answer1 = 1;

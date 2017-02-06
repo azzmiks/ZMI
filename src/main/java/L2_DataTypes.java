@@ -1,7 +1,7 @@
 /**
  * Created by azmiks on 06/02/2017.
  */
-public class DataTypes {
+public class L2_DataTypes {
     public static void main (String[] args)
     {
         char letter = 'M';
