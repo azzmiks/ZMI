@@ -6,7 +6,13 @@
 >>>>>>> Stashed changes
  */
 public class MyFirstJavaProgram {
-    public static void main(String []args) {
+    public static void main(String []args)
+    {
         System.out.println("Hello World");
+
+        String message = "First variable";
+        System.out.println(message);
+        message = "Second variable";
+        System.out.println(message);
     }
 }
