@@ -19,5 +19,8 @@ public class L4_Arithmetic {
 
         sum = num / factor; // 100/20
         System.out.print("Division result: " + sum);
+
+        sum = num % factor; // 100 % 20
+        System.out.println("Division by modulo: " + sum);
     }
 }
