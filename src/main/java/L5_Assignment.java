@@ -1,7 +1,7 @@
 /**
  * Created by azmiks on 07/02/2017.
  */
-public class L5_Asignment {
+public class L5_Assignment {
     public static void main (String[] args)
     {
         String txt = "Fantastic ";
