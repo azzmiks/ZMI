@@ -21,6 +21,6 @@ public class L4_Arithmetic {
         System.out.print("Division result: " + sum);
 
         sum = num % factor; // 100 % 20
-        System.out.println("Division by modulo: " + sum);
+        System.out.println("Division by modulo: " + sum); // why the result is not displayed from the new line?
     }
 }
