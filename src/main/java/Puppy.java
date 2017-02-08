@@ -2,6 +2,7 @@
  * Created by Myroslava_Zubach on 27.01.2017.
  */
 public class Puppy {
+
     int puppyAge;
 
     public Puppy(String name) {
