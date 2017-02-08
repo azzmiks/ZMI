@@ -17,7 +17,7 @@ public class L10_Escape {
 }
 
 /*
-\n - line feed (перевод строки)
+\n - new feed (перевод строки)
 \t - tabbing (табуляция)
 \b - step back (шаг назад)
 \r - carriage return (возврат каретки)
