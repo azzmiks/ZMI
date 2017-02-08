@@ -1,3 +1,5 @@
+package learningJava;
+
 /**
  * Created by azmiks on 07/02/2017.
  */

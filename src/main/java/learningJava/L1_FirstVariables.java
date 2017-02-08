@@ -1,3 +1,5 @@
+package learningJava;
+
 /**
 <<<<<<< Updated upstream
  * Created by Myroslava_Zubach on 27.01.2017.
