@@ -9,6 +9,8 @@ public class L5_Assignment {
         String txt = "Fantastic ";
         String lang = "Java";
         txt += lang;
+        txt = txt + lang;
+
         System.out.println("Strings: " + txt);
 
         int sum = 10;

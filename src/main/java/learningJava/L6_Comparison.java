@@ -1,5 +1,7 @@
 package learningJava;
 
+import java.util.Objects;
+
 /**
  * Created by azmiks on 07/02/2017.
  */
@@ -9,6 +11,26 @@ public class L6_Comparison {
         String txt = "Fantastic";
         String lang = "Java";
         boolean state = (txt == lang); //why do we use brackets?
+
+        boolean test = (txt == lang);
+
+        txt.equals(lang); //for strings
+
+
+        Object object = new Object();
+        Object object2 = new Object();
+
+        L7_Logic l7_logic_Object = new L7_Logic();
+
+        System.out.println(l7_logic_Object.equals(object));
+
+
+        object.equals(object2);
+
+        if(txt == lang) {
+
+        }
+
         System.out.println("Strings are equal: " + state);
 
         state = (txt != lang);

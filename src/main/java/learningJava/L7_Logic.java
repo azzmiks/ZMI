@@ -4,8 +4,9 @@ package learningJava;
  * Created by azmiks on 07/02/2017.
  */
 public class L7_Logic {
-    public static void main (String[] args)
-    {
+
+    public void l7() {
+
         boolean yes = true;
         boolean no = false;
 
@@ -19,4 +20,9 @@ public class L7_Logic {
         System.out.println("Yes: " + yes);
         System.out.println("Not yes: " + !yes);
     }
+
+//    @Override
+//    public boolean equals(Object obj) {
+//    return true;
+//    }
 }
