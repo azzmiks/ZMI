@@ -4,8 +4,7 @@ package learningJava;
  * Created by azmiks on 06/02/2017.
  */
 public class L3_Constants {
-    public static void main (String[] args)
-    {
+    public static void main (String[] args) {
         final int Answer1 = 1;
         final int Answer2 = 2;
         final int Answer3 = 3;

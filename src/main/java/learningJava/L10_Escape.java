@@ -4,8 +4,7 @@ package learningJava;
  * Created by azmiks on 07/02/2017.
  */
 public class L10_Escape {
-    public static void main (String[] args)
-    {
+    public static void main (String[] args) {
         String header = "\n\tGdansk weather forecast:\n";
         header += "\n\tDay\t\tMax\tMin\tPrecipitations\n";
         header += "\n\t-------\t---\t---\t--------------\n";
