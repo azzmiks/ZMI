@@ -19,12 +19,13 @@ public class L10_Escape {
 }
 
 /*
-\n - new feed (перевод строки)
-\t - tabbing (табуляция)
-\b - step back (шаг назад)
+\n - newline (перевод строки)
+\t - tab (табуляция)
+\b - backspace (шаг назад)
 \r - carriage return (возврат каретки)
-\f - page feed (перевод страницы)
-\\ - inverse slash (обратный слеш)
-\' - apostrophe (одиночная кавычка)
-\" - quotation mark (двойная кавычка)
+\f - formfeed (перевод страницы)
+\s - space (пробел)
+\\ - backslash (обратный слеш)
+\' - single quote (одиночная кавычка)
+\" - double quote (двойная кавычка)
 */

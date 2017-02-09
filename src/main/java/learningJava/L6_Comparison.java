@@ -10,11 +10,11 @@ public class L6_Comparison {
     {
         String txt = "Fantastic";
         String lang = "Java";
-        boolean state = (txt == lang); //why do we use brackets?
+        boolean state = (txt == lang);
 
         boolean test = (txt == lang);
 
-        txt.equals(lang); //for strings
+        txt.equals(lang);
 
 
         Object object = new Object();

@@ -16,7 +16,6 @@ public class L4_Arithmetic {
 
         int a = 2;
 
-
         System.out.println((int) lowerPrecission + a);
 
         System.out.println(higherPrecission + test);
@@ -24,7 +23,7 @@ public class L4_Arithmetic {
         System.out.println(lowerPrecission + higherPrecission);
 
         sum = num + factor; // 100+20
-        System.out.println(2 + higherPrecission);
+        System.out.println("Sum result: " + sum);
 
         sum = num - factor; // 100-20
         System.out.println("Subtruction result: " + sum);
