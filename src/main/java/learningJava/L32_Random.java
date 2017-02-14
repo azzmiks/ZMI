@@ -3,7 +3,7 @@ package learningJava;
 /**
  * Created by azmiks on 14/02/2017.
  */
-public class L31_Random {
+public class L32_Random {
     public static void main(String[] args) {
 
         float random = (float) Math.random();
