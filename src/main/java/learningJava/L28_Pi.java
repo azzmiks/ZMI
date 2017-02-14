@@ -6,7 +6,8 @@ package learningJava;
 public class L28_Pi {
     public static void main(String[] args) {
 
-        float radius = Float.parseFloat(args[0]);
+        //float radius = Float.parseFloat(args[0]);
+        float radius = 5;
         float shortPi = (float) Math.PI;
 
         float circ = shortPi * (radius + radius);
