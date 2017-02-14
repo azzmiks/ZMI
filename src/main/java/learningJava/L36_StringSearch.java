@@ -12,7 +12,7 @@ public class L36_StringSearch {
         int counter1 = 0, counter2 = 0, counter3 = 0;
 
         for (int i = 0; i < books.length; i++) {
-            System.out.println(books[i].substring(0,4) + " | ");
+            System.out.print(books[i].substring(0,4) + " | ");
 
             if (books[i].endsWith("in easy steps")) counter1++;
             if (books[i].startsWith("Java")) counter2++;
