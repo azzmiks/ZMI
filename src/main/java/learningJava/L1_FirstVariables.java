@@ -9,7 +9,7 @@ package learningJava;
  */
 public class L1_FirstVariables {
 
-    public static void main (String[] args) {
+    public void showMessages() {
         System.out.println("Hello World");
 
         String message = "First variable";

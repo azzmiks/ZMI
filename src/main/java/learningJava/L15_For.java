@@ -1,5 +1,8 @@
 package learningJava;
 
+import java.util.ArrayList;
+import java.util.List;
+
 /**
  * Created by azmiks on 11/02/2017.
  */
@@ -16,5 +19,14 @@ public class L15_For {
                 System.out.println("\t\tTotal num=" + (++num));
             }
         }
+
+        List<String> list = new ArrayList<>();
+
+        list.add("Test");
+        list.add("Test2");
+
+//        while (list.iterator().hasNext()){
+//            System.out.print(list.iterator().next());
+//        }
     }
 }

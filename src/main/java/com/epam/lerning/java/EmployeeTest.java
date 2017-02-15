@@ -1,4 +1,4 @@
-package employee;
+package com.epam.lerning.java;
 
 /**
  * Created by Myroslava_Zubach on 27.01.2017.

@@ -1,19 +1,20 @@
-package employee; /**
+package com.epam.lerning.java; /**
  * Created by Myroslava_Zubach on 27.01.2017.
  */
 import java.io.*;
+
 public class Employee {
     public String name;
     public int age;
     public String designation;
     public double salary;
 
-    // This is the constructor of the class employee.Employee
+    // This is the constructor of the class Employee
     public Employee(String name) {
         this.name = name;
     }
 
-    // Assign the age of the employee.Employee  to the variable age.
+    // Assign the age of the Employee  to the variable age.
     public void setEmpAge(int empAge) {
         age = empAge;
     }
@@ -32,7 +33,7 @@ public class Employee {
         salary = empSalary;
     }
 
-    /* Print the employee.Employee details */
+    /* Print the Employee details */
     public void printEmployee() {
         System.out.println("Name:"+ name );
         System.out.println("Age:" + age );

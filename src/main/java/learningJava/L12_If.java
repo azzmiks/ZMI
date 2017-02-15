@@ -19,5 +19,7 @@ public class L12_If {
 
             System.out.println("The number is between 6 and 9 or equals 12");
         }
+
+
     }
 }

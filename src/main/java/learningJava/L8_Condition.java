@@ -14,5 +14,13 @@ public class L8_Condition {
 
         result = (num2 % 2 !=0)? "Odd": "Even";
         System.out.println(num2 + " - " + result);
+
+        if(num1 == 0) {
+            System.out.print(1);
+        }
+            System.out.print(1);
+
+
+
     }
 }

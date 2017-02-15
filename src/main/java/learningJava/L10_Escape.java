@@ -13,7 +13,12 @@ public class L10_Escape {
         forecast += "\tMonday\t69F\t57F\tSunny\n";
         forecast += "\tTuesday\t65F\t41F\tRainy\n";
 
+        String test = "My nickname is 'something'.";
+
         System.out.println(header + forecast);
+
+        System.out.print("" + "\n");
+        System.out.println("");
     }
 }
 

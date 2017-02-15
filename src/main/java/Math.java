@@ -1,6 +1,9 @@
+
+
 /**
  * Created by Myroslava_Zubach on 13.12.2016.
  */
+
 public class Math {
 
     public int summaryOfTwoNumbers(int firstOperand, int secondOperand) {
@@ -9,6 +12,8 @@ public class Math {
 
     public void println(String testVariable) {
         System.out.println(testVariable);
+
     }
+
 
 }
