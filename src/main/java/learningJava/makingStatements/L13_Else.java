@@ -4,7 +4,7 @@ package learningJava.makingStatements;
  * Created by azmiks on 09/02/2017.
  */
 public class L13_Else {
-    public static void main(String[] args) {
+    public void branchingWithElseIf() {
 
         int hrs = 25;
 

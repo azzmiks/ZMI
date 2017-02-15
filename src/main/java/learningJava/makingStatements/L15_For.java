@@ -7,7 +7,7 @@ import java.util.List;
  * Created by azmiks on 11/02/2017.
  */
 public class L15_For {
-    public static void main(String[] args) {
+    public void loopingFor() {
 
         int num = 0;
 
@@ -20,10 +20,10 @@ public class L15_For {
             }
         }
 
-        List<String> list = new ArrayList<>();
-
-        list.add("Test");
-        list.add("Test2");
+//        List<String> list = new ArrayList<>();
+//
+//        list.add("Test");
+//        list.add("Test2");
 
 //        while (list.iterator().hasNext()){
 //            System.out.print(list.iterator().next());

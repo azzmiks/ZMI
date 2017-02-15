@@ -4,7 +4,7 @@ package learningJava.directingValues;
  * Created by azmiks on 13/02/2017.
  */
 public class L26_Dimensions {
-    public static void main(String[] args) {
+    public void addingArrayDimensions() {
 
         boolean[][] points = new boolean[5][20];
 

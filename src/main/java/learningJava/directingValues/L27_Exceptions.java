@@ -4,11 +4,14 @@ package learningJava.directingValues;
  * Created by azmiks on 13/02/2017.
  */
 public class L27_Exceptions {
-    public static void main(String[] args) {
+    public void catchingExceptions() {
+
+        String[] arg = new String[1];
+        arg[0] = "23";
 
         try {
 
-            int num = Integer.parseInt(args[0]);
+            int num = Integer.parseInt(arg[0]);
             System.out.println("Entered number is: " + num);
         }
 

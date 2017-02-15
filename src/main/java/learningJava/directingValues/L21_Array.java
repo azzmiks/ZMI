@@ -4,7 +4,7 @@ package learningJava.directingValues;
  * Created by azmiks on 13/02/2017.
  */
 public class L21_Array {
-    public static void main(String[] args) {
+    public void creatingVariableArrays() {
 
         String[] str = {"Java ", "is ", "good" };
 

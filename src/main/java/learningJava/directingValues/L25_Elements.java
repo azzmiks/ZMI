@@ -4,7 +4,7 @@ package learningJava.directingValues;
  * Created by azmiks on 13/02/2017.
  */
 public class L25_Elements {
-    public static void main(String[] args) {
+    public void changingElementValues() {
 
         int[] sklep_q1 = {20000, 15000, 21000};
         int[] sklep_q2 = {17000, 13000, 30000};

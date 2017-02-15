@@ -4,13 +4,16 @@ package learningJava.directingValues;
  * Created by azmiks on 13/02/2017.
  */
 public class L22_Option {
-    public static void main(String[] args) {
+    public void passingArgument() {
 
-        if (args[0].equals("-en")) {
+        String[] str = new String[1];
+        str[0] = "-en";
+
+        if (str[0].equals("-en")) {
             System.out.println("English");
         }
 
-        else if (args[0].equals("-es")) {
+        else if (str[0].equals("-es")) {
             System.out.println("Spanish");
         }
 

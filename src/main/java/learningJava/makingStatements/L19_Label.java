@@ -4,7 +4,7 @@ package learningJava.makingStatements;
  * Created by azmiks on 12/02/2017.
  */
 public class L19_Label {
-    public static void main(String[] args) {
+    public void usingOuterLoop() {
 
         outerLoop: for (int i = 1; i < 4; i++) {
             for (int j = 1; j < 4; j++) {

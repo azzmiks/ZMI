@@ -4,7 +4,7 @@ package learningJava.directingValues;
  * Created by azmiks on 13/02/2017.
  */
 public class L24_Loops {
-    public static void main(String[] args) {
+    public void loopingThroughElements() {
 /*
         if (args.length > 0) {
             for (int i = 0; i < args.length; i++) {

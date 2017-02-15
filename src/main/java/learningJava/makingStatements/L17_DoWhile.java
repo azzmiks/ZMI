@@ -4,7 +4,7 @@ package learningJava.makingStatements;
  * Created by azmiks on 11/02/2017.
  */
 public class L17_DoWhile {
-    public static void main(String[] args) {
+    public void loopingDoWhile() {
 
         int num = 100;
 

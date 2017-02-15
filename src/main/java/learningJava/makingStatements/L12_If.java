@@ -4,7 +4,7 @@ package learningJava.makingStatements;
  * Created by azmiks on 09/02/2017.
  */
 public class L12_If {
-    public static void main(String[] args) {
+    public void branchingWithIf() {
 
         if (5 > 1) System.out.println("5 is greater than 1");
 
