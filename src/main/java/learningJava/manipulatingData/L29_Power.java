@@ -4,7 +4,7 @@ package learningJava.manipulatingData;
  * Created by azmiks on 14/02/2017.
  */
 public class L29_Power {
-    public static void main(String[] args){
+    public void usingMathPowAndMathSqrt() {
 
         //int num = Integer.parseInt(args[0]);
         int num = 9;

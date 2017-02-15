@@ -4,7 +4,7 @@ package learningJava.manipulatingData;
  * Created by azmiks on 14/02/2017.
  */
 public class L31_Compare {
-    public static void main(String[] args) {
+    public void findingMaxMinValue() {
 
         float num1 = 24.75f;
         int num2 = 25;

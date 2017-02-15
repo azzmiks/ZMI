@@ -4,7 +4,7 @@ package learningJava.manipulatingData;
  * Created by azmiks on 14/02/2017.
  */
 public class L35_StringComparison {
-    public static void main(String[] args) {
+    public void comparingStrings() {
 
         String password = "bingo";
         String pass = "BINGO";

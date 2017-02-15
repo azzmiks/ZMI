@@ -4,7 +4,7 @@ package learningJava.manipulatingData;
  * Created by azmiks on 14/02/2017.
  */
 public class L36_StringSearch {
-    public static void main(String[] args) {
+    public void searchingStrings() {
 
         String[] books = {"Java in easy steps", "XML in easy steps",
                           "HTML in easy steps", "CSS in easy steps",

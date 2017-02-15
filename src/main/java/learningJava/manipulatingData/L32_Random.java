@@ -4,7 +4,7 @@ package learningJava.manipulatingData;
  * Created by azmiks on 14/02/2017.
  */
 public class L32_Random {
-    public static void main(String[] args) {
+    public void usingMathRandom() {
 
         float random = (float) Math.random();
         System.out.println("Random number: " + random);

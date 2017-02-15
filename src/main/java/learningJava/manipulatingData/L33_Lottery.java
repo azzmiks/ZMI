@@ -4,7 +4,7 @@ package learningJava.manipulatingData;
  * Created by azmiks on 14/02/2017.
  */
 public class L33_Lottery {
-    public static void main(String[] args) {
+    public void generatingRandomNumbers() {
 
         int[] nums = new int[50];
         for (int i=1; i < 50; i++) {

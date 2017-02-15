@@ -4,7 +4,7 @@ package learningJava.manipulatingData;
  * Created by azmiks on 14/02/2017.
  */
 public class L30_Round {
-    public static void main(String[] args) {
+    public void usingMathRoundFloorCeil() {
 
         float num = 7.25f;
 

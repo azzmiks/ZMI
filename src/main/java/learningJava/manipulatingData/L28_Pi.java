@@ -4,7 +4,7 @@ package learningJava.manipulatingData;
  * Created by azmiks on 14/02/2017.
  */
 public class L28_Pi {
-    public static void main(String[] args) {
+    public void usingMathPi() {
 
         //float radius = Float.parseFloat(args[0]);
         float radius = 5;
