@@ -5,7 +5,7 @@ package learningJava.performingOperations;
  */
 public class L7_Logic {
 
-    public void l7() {
+    public void assessingLogic() {
 
         boolean yes = true;
         boolean no = false;

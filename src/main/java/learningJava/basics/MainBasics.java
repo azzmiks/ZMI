@@ -3,7 +3,7 @@ package learningJava.basics;
 /**
  * Created by Myroslava_Zubach on 15.02.2017.
  */
-public class Main {
+public class MainBasics {
 
     public static void main (String[] args) {
 

@@ -4,7 +4,7 @@ package learningJava.performingOperations;
  * Created by azmiks on 07/02/2017.
  */
 public class L8_Condition {
-    public static void main (String[] args) {
+    public void examiningConditions() {
         int num1 = 1357;
         int num2 = 2468;
         String result;
@@ -14,13 +14,5 @@ public class L8_Condition {
 
         result = (num2 % 2 !=0)? "Odd": "Even";
         System.out.println(num2 + " - " + result);
-
-        if(num1 == 0) {
-            System.out.print(1);
-        }
-            System.out.print(1);
-
-
-
     }
 }

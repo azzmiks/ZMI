@@ -4,7 +4,7 @@ package learningJava.performingOperations;
  * Created by azmiks on 07/02/2017.
  */
 public class L5_Assignment {
-    public static void main (String[] args) {
+    public void assigningValues() {
         String txt = "Fantastic ";
         String lang = "Java";
         txt += lang;

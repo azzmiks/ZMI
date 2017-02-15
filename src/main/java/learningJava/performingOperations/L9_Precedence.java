@@ -4,7 +4,7 @@ package learningJava.performingOperations;
  * Created by azmiks on 07/02/2017.
  */
 public class L9_Precedence {
-    public static void main(String[] args) {
+    public void settingPrecedence() {
         int sum = 32 - 8 + 16 * 2; // 16*2=32, +24=56
         System.out.println("Result 1: " + sum);
 

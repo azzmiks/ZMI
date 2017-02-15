@@ -4,7 +4,7 @@ package learningJava.performingOperations;
  * Created by azmiks on 07/02/2017.
  */
 public class L10_Escape {
-    public static void main (String[] args) {
+    public void escapingLiterals() {
         String header = "\n\tGdansk weather forecast:\n";
         header += "\n\tDay\t\tMax\tMin\tPrecipitations\n";
         header += "\n\t-------\t---\t---\t--------------\n";
@@ -13,12 +13,7 @@ public class L10_Escape {
         forecast += "\tMonday\t69F\t57F\tSunny\n";
         forecast += "\tTuesday\t65F\t41F\tRainy\n";
 
-        String test = "My nickname is 'something'.";
-
         System.out.println(header + forecast);
-
-        System.out.print("" + "\n");
-        System.out.println("");
     }
 }
 

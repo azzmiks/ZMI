@@ -4,7 +4,7 @@ package learningJava.performingOperations;
  * Created by azmiks on 07/02/2017.
  */
 public class L11_Bitwise {
-    public static void main(String[] args) {
+    public void workingWithBits() {
         int fs = 53; // 00110101
         System.out.println("Flag 1: " + (((fs&1) > 0)? "On": "Off"));
         System.out.println("Flag 2: " + (((fs&2) > 0)? "On": "Off"));

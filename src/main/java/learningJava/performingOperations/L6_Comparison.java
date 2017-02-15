@@ -4,7 +4,7 @@ package learningJava.performingOperations;
  * Created by azmiks on 07/02/2017.
  */
 public class L6_Comparison {
-    public static void main (String[] args) {
+    public void comparingValues() {
         String txt = "Fantastic";
         String lang = "Java";
         boolean state = (txt == lang);

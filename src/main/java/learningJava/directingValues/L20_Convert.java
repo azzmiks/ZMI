@@ -4,7 +4,7 @@ package learningJava.directingValues;
  * Created by azmiks on 12/02/2017.
  */
 public class L20_Convert {
-    public static void main(String[] args) {
+    public void convertingValues() {
 
         float daysFloat = 365.25f;
         String weeksString = "52";
