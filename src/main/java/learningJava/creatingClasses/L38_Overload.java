@@ -16,10 +16,12 @@ public class L38_Overload {
     }
 
     public static String write (String num) {
+
         return ("String value: " + num);
     }
 
     public static String write (int num1, int num2) {
+
         return ("Result: " + (num1 * num2));
     }
 

@@ -1,4 +1,4 @@
-package learningJava.creatingClasses;
+package learningJava.creatingClasses.multipleClasses;
 
 /**
  * Created by azmiks on 15/02/2017.
