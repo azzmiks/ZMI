@@ -1,7 +1,5 @@
 package learningJava.creatingClasses;
 
-import sun.tools.tree.SuperExpression;
-
 /**
  * Created by azmiks on 15/02/2017.
  */
