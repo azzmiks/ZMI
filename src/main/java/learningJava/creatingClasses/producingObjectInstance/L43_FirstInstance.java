@@ -1,4 +1,6 @@
-package learningJava.creatingClasses;
+package learningJava.creatingClasses.producingObjectInstance;
+
+import learningJava.creatingClasses.creatingObject.L42_Car;
 
 /**
  * Created by Myroslava_Zubach on 16.02.2017.

@@ -1,4 +1,4 @@
-package learningJava.creatingClasses;
+package learningJava.creatingClasses.producingObjectInstance;
 
 /**
  * Created by Myroslava_Zubach on 16.02.2017.
