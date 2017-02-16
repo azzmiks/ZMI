@@ -4,7 +4,7 @@ import java.io.*;
 /**
  * Created by Myroslava_Zubach on 16.02.2017.
  */
-public class L46_ListFiles {
+class L46_ListFiles {
     public static void main(String[] args) {
 
         File dir = new File("data");
