@@ -1,4 +1,8 @@
+package learningJava.creatingClasses;<<<<<<< HEAD:src/main/java/learningJava/creatingClasses/extendingClass/L41_SubClass.java
 package learningJava.creatingClasses.extendingClass;
+=======
+package learningJava.creatingClasses;
+>>>>>>> a8550b04b140d140c40e052d413333fcea79e128:src/main/java/learningJava/creatingClasses/L41_SubClass.java
 
 /**
  * Created by azmiks on 15/02/2017.

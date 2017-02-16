@@ -1,4 +1,4 @@
-package learningJava.creatingClasses.extendingClass;
+package learningJava.creatingClasses;
 
 /**
  * Created by azmiks on 15/02/2017.
