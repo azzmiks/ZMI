@@ -7,7 +7,7 @@ import java.io.*;
  * Created by Myroslava_Zubach on 16.02.2017.
  */
 public class L48_ReadFile {
-    public static void main(String[] args) {
+    public void readingFiles() {
 
         try {
         FileReader file = new FileReader("C:\\Users\\Myroslava_Zubach\\IdeaProjects\\ZMI\\src\\main\\resources\\verse.txt");

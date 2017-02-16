@@ -5,7 +5,7 @@ import java.io.*;
  * Created by Myroslava_Zubach on 16.02.2017.
  */
 class L49_WriteFile {
-    public static void main(String[] args) {
+    public void writingFiles() {
 
         try {
         FileWriter file = new FileWriter("C:\\Users\\Myroslava_Zubach\\IdeaProjects\\ZMI\\src\\main\\resources\\tam.txt");

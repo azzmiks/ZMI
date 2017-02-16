@@ -6,7 +6,7 @@ import java.time.LocalDateTime;
  * Created by azmiks on 16/02/2017.
  */
 class L52_DateTime {
-    public static void main(String[] args) {
+    public void managingDates() {
 
         LocalDateTime date = LocalDateTime.now();
         System.out.println("\nCurrent time: " + date);

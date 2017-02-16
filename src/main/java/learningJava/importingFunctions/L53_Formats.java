@@ -10,7 +10,7 @@ import java.time.format.DateTimeFormatter;
  */
 class L53_Formats {
 
-    public static void main(String[] args) {
+    public void changingFormat() {
 
         NumberFormat nf = NumberFormat.getNumberInstance();
         System.out.println("\nNumber: " + nf.format(123456789));

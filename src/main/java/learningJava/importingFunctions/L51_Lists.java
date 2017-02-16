@@ -7,7 +7,7 @@ import java.util.ArrayList;
  */
 class L51_Lists {
 
-    public static void main(String[] args) {
+    public void managingArrays() {
 
         ArrayList<String> list = new ArrayList<String>();
         list.add("Alfa");

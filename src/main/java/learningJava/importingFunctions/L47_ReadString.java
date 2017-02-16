@@ -6,7 +6,7 @@ import java.io.*;
  * Created by Myroslava_Zubach on 16.02.2017.
  */
 class L47_ReadString {
-    public static void main(String[] args) {
+    public void readingConsolInput() {
 
         System.out.println("Please enter book name");
 
@@ -19,7 +19,7 @@ class L47_ReadString {
             buffer.close();
         }
         catch (IOException e) {
-            System.out.println("Inpur error");
+            System.out.println("Input error");
         }
 
         System.out.println("\nYou are reading \"" + input + "\"");

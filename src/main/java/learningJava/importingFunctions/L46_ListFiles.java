@@ -5,7 +5,7 @@ import java.io.*;
  * Created by Myroslava_Zubach on 16.02.2017.
  */
 class L46_ListFiles {
-    public static void main(String[] args) {
+    public void handlingFiles() {
 
         File dir = new File("data");
         if(dir.exists()) {
