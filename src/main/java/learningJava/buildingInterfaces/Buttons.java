@@ -15,8 +15,12 @@ class Buttons extends JFrame {
 //    ImageIcon tick = new ImageIcon(tickURL);
 //    ImageIcon cross = new ImageIcon(crossURL);
 
-    ImageIcon tick = new ImageIcon("C:\\Users\\Myroslava_Zubach\\IdeaProjects\\ZMI\\src\\main\\resources\\tick.png");
-    ImageIcon cross = new ImageIcon("C:\\Users\\Myroslava_Zubach\\IdeaProjects\\ZMI\\src\\main\\resources\\cross.png");
+//    ImageIcon tick = new ImageIcon("C:\\Users\\Myroslava_Zubach\\IdeaProjects\\ZMI\\src\\main\\resources\\tick.png");
+//    ImageIcon cross = new ImageIcon("C:\\Users\\Myroslava_Zubach\\IdeaProjects\\ZMI\\src\\main\\resources\\cross.png");
+
+    ImageIcon tick = new ImageIcon("tick.png");
+    ImageIcon cross = new ImageIcon("cross.png");
+
 
     JButton btn = new JButton("Click here");
     JButton tickBtn = new JButton(tick);

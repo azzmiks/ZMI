@@ -11,7 +11,9 @@ class Labels extends JFrame {
 //    ClassLoader ldr = this.getClass().getClassLoader();
 //    ImageIcon duke = new ImageIcon(ldr.getResource("C:\\Users\\Myroslava_Zubach\\IdeaProjects\\ZMI\\src\\main\\resources\\duke.png"));
 
-    ImageIcon duke = new ImageIcon("C:\\Users\\Myroslava_Zubach\\IdeaProjects\\ZMI\\src\\main\\resources\\duke.png");
+//    ImageIcon duke = new ImageIcon("C:\\Users\\Myroslava_Zubach\\IdeaProjects\\ZMI\\src\\main\\resources\\duke.png");
+
+    ImageIcon duke = new ImageIcon("duke.png");
 
     JLabel lbl1 = new JLabel(duke);
     JLabel lbl2 = new JLabel("Duke, the Java Mascot");
