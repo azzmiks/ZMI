@@ -3,8 +3,9 @@ package learningJava.buildingInterfaces;
 import javax.swing.*;
 
 /**
- * Created by azmiks on 16/02/2017.
+ * Created by Myroslava_Zubach on 17.02.2017.
  */
+
 class Window extends JFrame {
 
     JPanel pnl = new JPanel();
