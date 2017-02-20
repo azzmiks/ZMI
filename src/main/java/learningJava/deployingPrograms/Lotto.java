@@ -70,4 +70,10 @@ jar uf jar-file - обновление содержимого JAR-архива
 jar ufm jar-file attributes_file - обновление содержимого манифеста JAR-архива с добавлением в него атрибутов
 jar xf jar-file - извлечение содержимого JAR-архива
 jar xf jar-file archive_file - извлечение определенного файла из содержимого JAR-архива
+
+Ахивирование:
+jar cfe Lotto.jar Lotto Lotto.class duke.png
+
+Запуск:
+java -jar Lotto.jar
  */
