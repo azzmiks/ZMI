@@ -77,6 +77,6 @@ jar cfe Lotto.jar Lotto Lotto.class duke.png
 Запуск:
 java -jar Lotto.jar
 
-Подписывани:
+Подписывание:
 jarsigner -keystore certificate.pfx -storetype pkcs12 Lotto.jar "Mike McGrath"
  */
