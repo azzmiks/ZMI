@@ -38,7 +38,7 @@ public class Lotto extends JFrame implements ActionListener {
 
             int[] nums = new int[50];
             String str = " ";
-            for (int i = 1; i <50; i++) {
+            for (int i = 1; i < 50; i++) {
                 nums[i] = i;
             }
 
@@ -50,9 +50,9 @@ public class Lotto extends JFrame implements ActionListener {
             }
 
             for (int i = 1; i < 7; i++) {
-                str = " " + Integer.toString(nums[i]) + " ";
-                txt.setText(str);
+                str += " " + Integer.toString(nums[i]) + " ";
             }
+                txt.setText(str);
         }
     }
 
