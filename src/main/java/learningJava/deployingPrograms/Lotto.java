@@ -61,3 +61,13 @@ public class Lotto extends JFrame implements ActionListener {
         Lotto lotto = new Lotto();
     }
 }
+
+/*
+jar cf jar-file input_files - создание JAR-архива
+jar cfe jar-file entry_point input files - создание JAR-архива с указанием точки входа в приложение
+jar tf jar-file - просмотр содержимого JAR-архива
+jar uf jar-file - обновление содержимого JAR-архива
+jar ufm jar-file attributes_file - обновление содержимого манифеста JAR-архива с добавлением в него атрибутов
+jar xf jar-file - извлечение содержимого JAR-архива
+jar xf jar-file archive_file - извлечение определенного файла из содержимого JAR-архива
+ */
