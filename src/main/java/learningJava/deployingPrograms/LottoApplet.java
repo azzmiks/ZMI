@@ -9,9 +9,11 @@ import java.awt.event.*;
 public class LottoApplet extends JApplet implements ActionListener {
 
     //Components
-    ClassLoader ldr = this.getClass().getClassLoader();
-    java.net.URL iconURL = ldr.getResource("duke.png");
-    ImageIcon icon = new ImageIcon(iconURL);
+//    ClassLoader ldr = this.getClass().getClassLoader();
+//    java.net.URL iconURL = ldr.getResource("duke.png");
+//    ImageIcon icon = new ImageIcon(iconURL);
+
+    ImageIcon icon = new ImageIcon("duke.png");
     JLabel img = new JLabel(icon);
     JTextField txt = new JTextField("", 18);
     JButton btn = new JButton("Show lucky numbers");
