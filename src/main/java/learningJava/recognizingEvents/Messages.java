@@ -1,8 +1,5 @@
 package learningJava.recognizingEvents;
 
-import com.sun.codemodel.internal.JOp;
-import jdk.nashorn.internal.scripts.JO;
-
 import javax.swing.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
