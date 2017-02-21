@@ -55,5 +55,9 @@ public class LottoApplet extends JApplet implements ActionListener {
             txt.setText(str);
         }
     }
-
 }
+
+/*
+jar ufm LottoApplet.jar permissions.txt
+jarsigner -keystore certificate.pfx -storetype pkcs12 LottoApplet.jar "Mike McGrath"
+ */
