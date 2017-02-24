@@ -8,6 +8,34 @@ public class L21_Array {
 
         String[] str = {"Java ", "is ", "good" };
 
+//        List<Object> test = new ArrayList<>();
+//
+//        ArrayList<String> test33 = new ArrayList<>();
+//
+//
+//        test.add("test-string");
+//        test.add(1);
+//        test.add(new String("test-string2"));
+//
+//        System.out.println(test.contains(1L));
+
+//        "test".length();
+//
+//        String testVariable = "testuyfviweh weigbdgui gduighsdughksd ghuisdgisdu ghksdugsduighsduif ghsidufghuidghsdui ghksdghksdug ";
+//        String testVariable2 = new String( "testuyfviweh weigbdgui gduighsdughksd ghuisdgisdu ghksdugsduighsduif ghsidufghuidghsdui ghksdghksdug");
+//
+//        int intValue = 1;
+//
+//        Integer intValue2 = new Integer(1);
+//        Integer intValue3 = 3;
+//
+//        int abc = intValue3;
+//
+//        Character a = 'a';
+//
+//        char abcsdd = a;
+
+
         int[] num = new int[3];
 
         num[0] = 100;

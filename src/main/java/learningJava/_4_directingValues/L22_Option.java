@@ -12,7 +12,6 @@ public class L22_Option {
         if (str[0].equals("-en")) {
             System.out.println("English");
         }
-
         else if (str[0].equals("-es")) {
             System.out.println("Spanish");
         }

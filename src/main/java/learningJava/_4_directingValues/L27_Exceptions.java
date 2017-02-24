@@ -9,7 +9,16 @@ public class L27_Exceptions {
         String[] arg = new String[1];
         arg[0] = "23";
 
+//        Integer abc = null;
+//
+//        try {
+//            InputStream inputStream = new FileInputStream(new File("C:\\"));
+//        } catch (FileNotFoundException e) {
+//            e.printStackTrace();
+//        }
+
         try {
+ //           System.out.println(2/abc);
 
             int num = Integer.parseInt(arg[0]);
             System.out.println("Entered number is: " + num);

@@ -19,6 +19,22 @@ public class L24_Loops {
                 System.out.println("java[" + i + "] is | " + java[i]);
             }
 
+//        List<String> list = new ArrayList<>();
+//
+//            list.add("a");
+//            list.add("b");
+//            list.add("c");
+//
+//        Iterator<String> iterator = list.iterator();
+//
+//        while (iterator.hasNext()) {
+//            System.out.println("While loop : "+iterator.next());
+//        }
+//
+//        for (String listElement : list) {
+//            System.out.println("For each: "+listElement);
+//        }
+
 
         String[] htm = {"HTML5", "in", "easy", "steps"};
         int j = 0;
