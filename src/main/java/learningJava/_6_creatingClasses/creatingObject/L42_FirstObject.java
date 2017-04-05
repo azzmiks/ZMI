@@ -8,6 +8,9 @@ public class L42_FirstObject {
 
         System.out.println("Color: " + L42_Car.color);
         System.out.println("BodyType: " + L42_Car.bodyType);
-        System.out.println(L42_Car.accelerate());
+        L42_Car car = new L42_Car();
+        System.out.println(car.accelerate());
+
+
     }
 }

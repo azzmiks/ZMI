@@ -7,6 +7,7 @@ public class L41_SubClass extends L41_SuperClass {
 
     public static void main (String[] args) {
 
+
         hello();
         L41_SuperClass.hello();
         echo(args[0]);

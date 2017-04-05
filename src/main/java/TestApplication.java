@@ -22,5 +22,8 @@ public class TestApplication {
 
         System.out.println(file.exists());
 
+        BuildingImpl building = new BuildingImpl();
+
+
     }
 }

@@ -4,7 +4,15 @@ package learningJava._4_directingValues;
  * Created by azmiks on 13/02/2017.
  */
 public class L24_Loops {
-    public void loopingThroughElements() {
+
+    public void loopingThroughElements(double bankAccountNumber, String validationData) {
+        //somemethod
+
+        loopingThroughElements(938745);
+
+    }
+
+    private void loopingThroughElements(double bankAccountNumber) {
 /*
         if (args.length > 0) {
             for (int i = 0; i < args.length; i++) {
